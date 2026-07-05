@@ -7,7 +7,7 @@ HJT光伏银包铜浆料配方机器学习预测工具
 企业真实实验配方数据属于涉密资料，本仓库仅开放完整处理逻辑代码，原始Excel数据源未上传。
 
 ## 技术栈
-Python >= 3.9
+Python = 3.8.8
 numpy | pandas | openpyxl
 matplotlib | seaborn
 scikit-learn | xgboost | lightgbm
