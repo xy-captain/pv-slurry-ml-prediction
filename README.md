@@ -41,17 +41,14 @@ joblib
 
 ## 运行步骤
 1. 安装依赖
-```bash
-pip install -r requirements.txt
 
 2. 数据清洗结构化
-python data_clean.py
+
 
 3. 特征工程加工
-python feature_engineering.py
+
 
 4. 模型训练与评估
-python model_train.py
 
 
 运行产出
